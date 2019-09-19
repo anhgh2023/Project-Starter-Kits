@@ -3,11 +3,17 @@
 ## Branch naming:
 
 Branch name for production releases: [master] 
+
 Branch name for staging releases: [staging] 
+
 Branch name for "next release" development: [develop]
+
 Feature branches? [feature]  
+
 Hotfix branches? [hotfix] 
+
 Support branches? [support] 
+
 Version tag prefix? [] v
 
 ## Naming Convention
