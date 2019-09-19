@@ -9,13 +9,13 @@ Anh chị em cứ sử dụng thoải mái và custom lại nếu muốn.
 
 ## Here we go
 
-### [0. Readme Template](README_TEMPLATE.md)
-### [1. Coding Conventions](CODING_CONVENTIONS.md)
+### [0. Readme template](README_TEMPLATE.md)
+### [1. Coding conventions](CODING_CONVENTIONS.md)
 ### [2. Gitflow](https://github.com/framgia/coding-standards/blob/master/vn/git/flow.md)
-### [3. Branch Naming Conventions](BRANCH_NAMING.md)
-### [4. Commit Message Rule](GIT_COMMIT_MESSAGE.md)
-### [5. Pull request checklist](PULL_REQUEST_TEMPLATE.md)
-### [6. Software Versioning](VERSIONING.md)
+### [3. Branch naming conventions](BRANCH_NAMING.md)
+### [4. Commit message rule](GIT_COMMIT_MESSAGE.md)
+### [5. Pull request template](PULL_REQUEST_TEMPLATE.md)
+### [6. Software versioning](VERSIONING.md)
 
 ## Authors
 
