@@ -25,6 +25,9 @@ Version tag prefix? [] v
 ### Example:
 
 feature_123456_user_profile_images_update
+
 hotfix_98765_menu_padding
+
 support_6457_header_banner_width_fix
+
 bug_235235_fix_column_not_change
